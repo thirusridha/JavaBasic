@@ -1,0 +1,10 @@
+ApplicationContext :
+--------------------
+		The ApplicationContext is the central interface within a Spring application for 
+providing configuration information to the application. The ApplicationContext interface 
+provides the getBean() method to retrieve bean from the spring container.
+
+What is IoC in Spring with example?
+Spring IoC Container is the core of Spring Framework. It creates the objects, configures 
+and assembles their dependencies, manages their entire life cycle.
+205274263568

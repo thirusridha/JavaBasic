@@ -1,0 +1,34 @@
+Why to Learn Spring?
+
+--> Spring is the most popular application development framework for enterprise Java.
+    Everyone is using Spring Framework to create high performing, easily testable, and reusable code.
+--> Spring framework is an open source Java platform. It was initially written by Rod Johnson.
+--> Spring is lightweight when it comes to size and transparency.
+--> The core features of the Spring Framework can be used in developing any Java application,
+    but there are extensions for building web applications on top of the Java EE platform. 
+--> Spring framework targets to make J2EE development easier to use and promotes good programming
+    practices by enabling a POJO-based programming model.
+	
+What is IOC(Inversion of control) Container ?
+
+-->IOC is responsible to instantiate or configure an object.
+--> it is responsible to injecting dependency.
+-----------------------------------------------------------------------!
+Metadata in the 		 java POJOs									   |
+form of					     |										   |
+XML,Annotations or	-->	Spring Container  --> Ready to use application |
+Java based metadata.												   |
+-----------------------------------------------------------------------1
+Types of IOC Containers :
+1.Bean Factory
+2.ApplicationContext
+
+What is Dependency Injection ?
+--> It is a design pattern that is used to remove dependencies from our application code.
+Advantages :
+--> Loosely Coupled Aapplication
+--> Easy to manage and test
+Types Of Injections :
+---------------------
+1.Setter Injection
+2.Constuctor Injection
