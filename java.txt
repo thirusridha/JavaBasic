@@ -1,11 +1,5 @@
 class java {
   public static void main(String args[]){
-      System.out.println("hello worl
- 
-
-
-java code Sridhar Akkaraju Basheer Ahmed barik rajesh
- 				Hello Hi HYD
-
+    System.out.println("Hello World");
  }
 }
