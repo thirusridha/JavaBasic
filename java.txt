@@ -1,11 +1,15 @@
 class java {
   public static void main(String args[]){
+<<<<<<< HEAD
+      System.out.println("Hello Sridhar");
+=======
       System.out.println("hello worl
  
 
 
 java code Sridhar Akkaraju Basheer Ahmed barik rajesh
- 				Hello Hi HYD
+ 				Hello 
 
+>>>>>>> parent of 50afee3 (updated)
  }
 }
